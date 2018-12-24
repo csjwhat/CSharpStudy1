@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-7_Sample_SelectManyMethod", "2-7_Sample_SelectManyMethod\2-7_Sample_SelectManyMethod.csproj", "{CEF265C5-90CF-4962-8027-22B35482060D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF265C5-90CF-4962-8027-22B35482060D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF265C5-90CF-4962-8027-22B35482060D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF265C5-90CF-4962-8027-22B35482060D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF265C5-90CF-4962-8027-22B35482060D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C919D453-5E0C-41CA-A416-ECAEC0AEC309}
+	EndGlobalSection
+EndGlobal
