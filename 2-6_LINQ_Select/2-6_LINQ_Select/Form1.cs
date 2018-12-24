@@ -51,6 +51,7 @@ namespace _2_6_LINQ_Select
                 gr.FillEllipse(myBrush, rect);
                 gr.DrawEllipse(myPen, rect);
             }
+            gr.SmoothingMode = SmoothingMode.Default;
         }
     }
 }
